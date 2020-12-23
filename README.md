@@ -10,7 +10,7 @@ I am always willing to research and develop my technical skills outside of work 
 
 ___
 
-**Technical Skilking
+**Technical Skills**
 
 - Active Directory Domain Services
 

@@ -10,9 +10,7 @@ I am always willing to research and develop my technical skills outside of work 
 
 ___
 
-**Technical Skills/Strongpoints:**
-
-- TCP/IP networking
+**Technical Skilking
 
 - Active Directory Domain Services
 
@@ -32,7 +30,7 @@ ___
 
 **Career Summary:**
 
-*2017 - 2019 | Infrastructure Technician Apprentice*
+2017 - 2019 | Infrastructure Technician Apprentice
 
 As an Infrastructure Technician, my job role was to provide IT support to staff and students within the organisation, helping them to be more productive when using technology to do their own daily duties.
 
@@ -52,7 +50,7 @@ Key achievement
 
 ___
 
-* 2019 - 2021 | Network Engineer Apprentice*
+2019 - 2021 | Network Engineer Apprentice
 
 As a Network Engineer, my job role still encompassed the core fundamentals of my Infrastructure Technician duties but had an emphasis on networking related issues. Be it working on servers and liaising with vendors to maintaining our local networking equipment (managing the proxy server, firewall, switches, liaising with our ISP, etc).
 

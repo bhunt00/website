@@ -32,7 +32,7 @@ ___
 
 **Career Summary:**
 
-*November 2017 - March 2019 | Infrastructure Technician Apprentice*
+*2017 - 2019 | Infrastructure Technician Apprentice*
 
 As an Infrastructure Technician, my job role was to provide IT support to staff and students within the organisation, helping them to be more productive when using technology to do their own daily duties.
 
@@ -52,7 +52,7 @@ Key achievement
 
 ___
 
-*April 2019 - May 2021 | Network Engineer Apprentice*
+* 2019 - 2021 | Network Engineer Apprentice*
 
 As a Network Engineer, my job role still encompassed the core fundamentals of my Infrastructure Technician duties but had an emphasis on networking related issues. Be it working on servers and liaising with vendors to maintaining our local networking equipment (managing the proxy server, firewall, switches, liaising with our ISP, etc).
 
@@ -71,4 +71,4 @@ ___
 - Network Systems and Architecture Level 4 - British Computing Society
 - Network Principles Level 4 - British Computing Society
 
-[For a more detailed copy of my CV, please get in touch](contact@billyhuntit.co.uk)
+For a more detailed and less vague copy of my CV, please get contact me via email: contact@billyhuntit.co.uk - I've chosen to publish a vague copy of my CV to the public to protect my privacy.

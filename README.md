@@ -1,4 +1,4 @@
-# Billy Hunt | Networking Engineer/Infrastructure Technician - Short concise redacted summary of my CV
+# Billy Hunt | Networking Engineer/Infrastructure Technician
 
 **Professional profile:**
 

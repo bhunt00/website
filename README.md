@@ -30,7 +30,7 @@ ___
 
 **Career Summary:**
 
-2017 - 2019 | Infrastructure Technician Apprentice:
+<ins>2017 - 2019 | Infrastructure Technician Apprentice:</ins>
 
 As an Infrastructure Technician, my job role was to provide IT support to staff and students within the organisation, helping them to be more productive when using technology to do their own daily duties.
 
@@ -49,7 +49,7 @@ Key achievement
 -  PETA Alex Zemendies Apprentice of the Year Award (Best in ICT) 2019.
 
 
-2019 - 2021 | Network Engineer Apprentice:
+<ins>2019 - 2021 | Network Engineer Apprentice:</ins>
 
 As a Network Engineer, my job role still encompassed the core fundamentals of my Infrastructure Technician duties but had an emphasis on networking related issues. Be it working on servers and liaising with vendors to maintaining our local networking equipment (managing the proxy server, firewall, switches, liaising with our ISP, etc).
 

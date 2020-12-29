@@ -68,7 +68,7 @@ ___
 - Network Systems and Architecture Level 4 - British Computing Society
 - Network Principles Level 4 - British Computing Society
 
-For a more detailed and less vague copy of my CV, please get contact me via email: contact@billyhuntit.co.uk - I've chosen to publish a vague copy of my CV to the public to protect my privacy.
+For a more detailed and less vague copy of my CV, please get in touch by contacting me via email: contact@billyhuntit.co.uk - I've chosen to publish a vague copy of my CV to the public to protect my privacy.
 
 ![365](https://raw.githubusercontent.com/bhunt00/website/main/365_Fundamentals_4_20.png)
 ![Mob](https://raw.githubusercontent.com/bhunt00/website/main/Mob_and_Dev_2_40.png)
